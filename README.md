@@ -81,3 +81,4 @@ To check the battery level its
 * Added some navigation features to the keypad layer
 * Added physical keys as comments in the keymap file
 * created copy and paste combo paste combo
+
